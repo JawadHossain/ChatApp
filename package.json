@@ -12,7 +12,9 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.3"
+        "bad-words": "^3.0.4",
+        "express": "^4.17.3",
+        "socket.io": "^4.4.1"
     },
     "devDependencies": {
         "nodemon": "^2.0.15"
