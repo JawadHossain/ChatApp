@@ -4,4 +4,6 @@ A multi room chat app bult with websockets to allow multi client - server duplex
 
 ## Screen Capture
 
-<img src="todo" width="800" height="381"/>
+<img src="https://github.com/JawadHossain/ChatApp/blob/main/public/ChatApp.gif" width="800" height="272"/>
+
+[Deployment Link](https://chat-app-jhossain.herokuapp.com/)
