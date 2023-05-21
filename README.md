@@ -1,6 +1,6 @@
 # ChatApp
 
-A multi room chat app bult with websockets to allow multi client - server duplex communication.
+A multi-room chat app built with WebSockets to allow multi client - server duplex communication.
 
 ## Screen Capture
 
